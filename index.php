@@ -10,16 +10,16 @@ Seth Stultz
 <div id="parent">
 
 	<div id="header">	
-	<h1>Blog Page</h1>
+	<h1>Welcome to My BLOG </h1>
 	<a href="Index.html">Home</a>
 	<a href="Home Page.html">Home</a>
 	<a href="Post Page.html">Post Page</a>
-	<a href="New Post Submission Page.html">New Submission Page</a>
+	<a href="New Post Submission Page.html">New Post Submission Page</a>
 	<div><!--close for header-->
 
 	<div id="content">
 		<img src="Images/Book 1.jpg" alt="Book 1" title="book 1"class="pic1"/>
-		<p class="text1">  This website is desinged for bed time. Books are for children during bed time. Easily choose a book title and the audio will play a bed time story to your children. 
+		<p class="text1">  Blog Page 
 		</p
 	<div><!--close for content-->
 
