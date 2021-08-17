@@ -10,7 +10,6 @@ Seth Stultz
 
 	<div id="header">	
 	<h1>Welcome to My BLOG </h1>
-	<a href="Index.html">Home</a>
 	<a href="Home Page.html">Home</a>
 	<a href="Post Page.html">Post Page</a>
 	<a href="New Post Submission Page.html">New Post Submission Page</a>
