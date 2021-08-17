@@ -1,10 +1,9 @@
 <html>
-<head>
+<header>
 <title>
 Seth Stultz
 </title>
-<link rel="stylesheet" type="text/css" href="format.css" />
-<link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+
 </head>
 <body>
 <div id="parent">
@@ -18,13 +17,13 @@ Seth Stultz
 	<div><!--close for header-->
 
 	<div id="content">
-		<img src="Images/Book 1.jpg" alt="Book 1" title="book 1"class="pic1"/>
+		<img src="Images/Home.jpg" alt="Home" title="Home"class="Home"/>
 		<p class="text1">  Blog Page 
 		</p
 	<div><!--close for content-->
 
 	<div id="footer">
-		&copy; 2021 Cloud Wave Entertainment
+		&copy; Seth Stultz Blog Week 3 Data bases
 	<div><!--close for footer-->
 
 <div><!--close for parent-->
